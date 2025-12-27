@@ -1,0 +1,9 @@
+title: Your Lab Name
+tagline: “Protein biomaterials • Micro/nanomanufacturing”
+email: yunteng.cao@yale.edu
+description: >-
+  Lab website describing research, publications, and contact information.
+baseurl: ""        # keep empty for username.github.io
+url: ""            # keep empty for GitHub Pages default
+markdown: kramdown
+permalink: pretty
