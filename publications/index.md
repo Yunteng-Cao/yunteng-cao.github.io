@@ -3,22 +3,38 @@ layout: default
 title: Publications
 ---
 
-Below is a selected list of publications and preprints. (You can expand this page later to auto-generate the list from a data file.)
+{% assign pubs = site.data.publications | sort: "year" | reverse %}
 
+<p class="muted">
+A selected list of publications and preprints. (Sorted by year.)
+</p>
+
+{% for p in pubs %}
 <div class="card">
-  <strong>Paper title 1</strong><br/>
-  <span class="muted">Author A, Author B, <strong>Your Name</strong></span><br/>
-  Journal / Preprint, 2025<br/>
-  <a href="https://doi.org/xxxx">DOI / Link</a>
-</div>
+  <div><strong>{{ p.title }}</strong></div>
 
-<div class="card">
-  <strong>Paper title 2</strong><br/>
-  <span class="muted">Author A, <strong>Your Name</strong>, Author C</span><br/>
-  Journal / Preprint, 2024<br/>
-  <a href="https://arxiv.org/abs/xxxx">DOI / Link</a>
-</div>
+  {% if p.authors %}
+  <div class="muted">{{ p.authors }}</div>
+  {% endif %}
 
-## Metrics & profiles
+  <div>
+    {% if p.venue %}{{ p.venue }}{% endif %}
+    {% if p.year %}{% if p.venue %} · {% endif %}{{ p.year }}{% endif %}
+    {% if p.type %} · {{ p.type }}{% endif %}
+  </div>
+
+  {% if p.note %}
+  <div class="muted"><small>{{ p.note }}</small></div>
+  {% endif %}
+
+  <div style="margin-top:8px;">
+    {% if p.link %}<a href="{{ p.link }}">Link</a>{% endif %}
+    {% if p.pdf %}{% if p.link %} · {% endif %}<a href="{{ p.pdf }}">PDF</a>{% endif %}
+    {% if p.code %}{% if p.link or p.pdf %} · {% endif %}<a href="{{ p.code }}">Code</a>{% endif %}
+  </div>
+</div>
+{% endfor %}
+
+## Profiles
 - Google Scholar: add link
 - ORCID: add link
