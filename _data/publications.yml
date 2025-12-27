@@ -1,0 +1,24 @@
+# Edit this list. Newest papers can go anywhere (the site will sort by year).
+# Tip: keep author names as plain text; you can bold your name in the display if you want (see publications/index.md).
+
+- title: "Programmable biomaterials with genetically encoded chemical handles"
+  authors: "Y. Cao, A. Student, B. Collaborator"
+  venue: "Nature"
+  year: 2025
+  type: "Journal"
+  link: "https://doi.org/xxxx"
+  note: "Featured article"
+
+- title: "Hollow and porous microneedles for precision delivery and sensing in plants"
+  authors: "Y. Cao, C. Student, D. Collaborator"
+  venue: "Advanced Materials"
+  year: 2024
+  type: "Journal"
+  link: "https://doi.org/xxxx"
+
+- title: "High-yield biosynthesis of nsAA-containing therapeutic peptides in recoded E. coli"
+  authors: "A. Student, Y. Cao"
+  venue: "bioRxiv"
+  year: 2024
+  type: "Preprint"
+  link: "https://www.biorxiv.org/content/xx.xxxxv1"
