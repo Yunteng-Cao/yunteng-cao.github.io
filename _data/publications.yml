@@ -1,24 +1,399 @@
-# Edit this list. Newest papers can go anywhere (the site will sort by year).
-# Tip: keep author names as plain text; you can bold your name in the display if you want (see publications/index.md).
+# Peer-reviewed publications
+# Note: "#" indicates equal contribution (as in your source list)
 
-- title: "Programmable biomaterials with genetically encoded chemical handles"
-  authors: "Y. Cao, A. Student, B. Collaborator"
-  venue: "Nature"
+- id: 1
+  title: "Nanofabrication of silk microneedles for high-throughput micronutrient delivery and continuous sap monitoring in plants"
+  authors: "Yunteng Cao#, Doyoon Kim#, Sally Shuxian Koh, Zheng Li, Federica Rigoldi, Julia Eva Fortmueller, Kasey Goh, Yilin Zhang, Eugene J. Lim, Hui Sun, Elise Uyehara, Raju Cheerlavancha, Yangyang Han, Rajeev J. Ram, Daisuke Urano, Benedetto Marelli"
+  journal: "Nature Nanotechnology"
   year: 2025
-  type: "Journal"
-  link: "https://doi.org/xxxx"
-  note: "Featured article"
+  details: ""
+  doi: "10.1038/s41565-025-01923-2"
+  url: "https://doi.org/10.1038/s41565-025-01923-2"
 
-- title: "Hollow and porous microneedles for precision delivery and sensing in plants"
-  authors: "Y. Cao, C. Student, D. Collaborator"
-  venue: "Advanced Materials"
-  year: 2024
-  type: "Journal"
-  link: "https://doi.org/xxxx"
+- id: 2
+  title: "Drug delivery in plants using silk microneedles"
+  authors: "Yunteng Cao#, Sally Shuxian Koh#, Yangyang Han, Javier Jingheng Tan, Doyoon Kim, Nam-Hai Chua, Daisuke Urano, Benedetto Marelli"
+  journal: "Advanced Materials"
+  year: 2022
+  details: "2205794"
+  doi: "10.1002/adma.202205794"
+  url: "https://doi.org/10.1002/adma.202205794"
 
-- title: "High-yield biosynthesis of nsAA-containing therapeutic peptides in recoded E. coli"
-  authors: "A. Student, Y. Cao"
-  venue: "bioRxiv"
+- id: 3
+  title: "Bistable structures for advanced functional systems"
+  authors: "Yunteng Cao, Masoud Derakhshani, Yuhui Fang, Guoliang Huang, Changyong Cao"
+  journal: "Advanced Functional Materials"
+  year: 2021
+  details: "2106231"
+  doi: "10.1002/adfm.202106231"
+  url: "https://doi.org/10.1002/adfm.202106231"
+
+- id: 4
+  title: "Soil sensors and plant wearables for smart and precision agriculture"
+  authors: "Heyu Yin#, Yunteng Cao#, Benedetto Marelli, Xiangqun Zeng, Andrew J. Mason, Changyong Cao"
+  journal: "Advanced Materials"
+  year: 2021
+  details: "33(20): 2007764"
+  doi: "10.1002/adma.202007764"
+  url: "https://doi.org/10.1002/adma.202007764"
+
+- id: 5
+  title: "Precision delivery of multiscale payloads to tissues specific targets in plants"
+  authors: "Yunteng Cao, Eugene Lim, Menglong Xu, Jing-Ke Weng, Benedetto Marelli"
+  journal: "Advanced Science"
+  year: 2020
+  details: "7(13): 1903551"
+  doi: "10.1002/advs.201903551"
+  url: "https://doi.org/10.1002/advs.201903551"
+
+- id: 6
+  title: "A novel slithering locomotion mechanism for a snake-like soft robot"
+  authors: "Yunteng Cao, Yilun Liu, Youlong Chen, Liangliang Zhu, Yuan Yan, Xi Chen"
+  journal: "Journal of the Mechanics and Physics of Solids"
+  year: 2017
+  details: "99: 304-320"
+  doi: "10.1016/j.jmps.2016.11.019"
+  url: "https://doi.org/10.1016/j.jmps.2016.11.019"
+
+- id: 7
+  title: "Hierarchically Structured Hollow Fiber Membranes for Efficient, Selective, and Scalable Mercury Ion Removal from Water"
+  authors: "Yaping Xu, Rui Liu, Yu Chu, Yuxiang Xu, Chenyang Dang, Tao Zhang, Xiaofeng Fang, Bing Han, Peng Li, Yunteng Cao, Guiyin Xu, Meifang Zhu"
+  journal: "Advanced Materials"
+  year: 2025
+  details: "2507014"
+  doi: "10.1002/adma.202507014"
+  url: "https://doi.org/10.1002/adma.202507014"
+
+- id: 8
+  title: "From lab to industry: High-safety separators for lithium-ion/-metal batteries"
+  authors: "Jia Zhang, Zhongxiu Liu, Chenyang Dang, Xiaoqing Zhu, Tao Zhang, Jing Shen, Hao Yang, Yujie Zhang, Yunteng Cao, Chris Y Yuan, C Chase Cao, Guiyin Xu, Meifang Zhu"
+  journal: "Matter"
+  year: 2025
+  details: "8(6)"
+  doi: "10.1016/j.matt.2025.102101"
+  url: "https://doi.org/10.1016/j.matt.2025.102101"
+
+- id: 9
+  title: "Electron displacement polarization of high-dielectric constant fiber separators enhances interface stability"
+  authors: "Tao Zhang, Xiaoqing Zhu, Jiyang Xiong, Zhixin Xue, Yunteng Cao, Keith C Gordon, Guiyin Xu, Meifang Zhu"
+  journal: "Nature Communications"
+  year: 2025
+  details: "16: 4867"
+  doi: "10.1038/s41467-025-60256-9"
+  url: "https://doi.org/10.1038/s41467-025-60256-9"
+
+- id: 10
+  title: "Precise delivery of physiological doses of melatonin in planta to control postharvest physiology and extend shelf life outside the cold chain"
+  authors: "Yangyang Han, Monika Jangir, Amanda Si Yi Ngoh, Chunhong Li, Sreelatha Sarangapani, Yunteng Cao, Yilin Zhang, Raju Cheerlavancha, Rajani Sarojam, Benedetto Marelli"
+  journal: "Nano Letter"
+  year: 2025
+  details: "25(22): 8859–8868"
+  doi: "10.1021/acs.nanolett.5c00487"
+  url: "https://doi.org/10.1021/acs.nanolett.5c00487"
+
+- id: 11
+  title: "Engineering a genomically recoded organism with one stop codon"
+  authors: "Michael W. Grome, Michael T. A. Nguyen#, Daniel W Moonan#, Kyle Mohler#, Kebron Gurara1#, Shenqi Wang, Colin Hemez, Benjamin Stenton, Yunteng Cao, Felix Radford, Maya Kornaj, Jaymin Patel, Maisha Prome, Svetlana Rogulina, David Sozanski, Jesse Tordoff, Jesse Rinehart, Farren J. Isaacs"
+  journal: "Nature"
+  year: 2025
+  details: "639: 512–521"
+  doi: "10.1038/s41586-024-08501-x"
+  url: "https://doi.org/10.1038/s41586-024-08501-x"
+
+- id: 12
+  title: "High aspect ratio polymer nanocarriers for gene delivery and expression in plants"
+  authors: "Yilin Zhang, Jinwoo Shin, Hui Sun, Hsin-Fang Chang, Michael R. Martinez, Lydia A. Perkins, Jiajun Yan, Yunteng Cao, Hairong Wang, Juan Pablo Giraldo, Krzysztof Matyjaszewski, Jen Sheen, Robert D. Tilton, Benedetto Marelli, Gregory V. Lowry"
+  journal: "Nano Letter"
+  year: 2025
+  details: "25(2): 681–690"
+  doi: "10.1021/acs.nanolett.4c04704"
+  url: "https://doi.org/10.1021/acs.nanolett.4c04704"
+
+- id: 13
+  title: "Chromatic covalent organic frameworks enabling in-vivo chemical tomography"
+  authors: "Song Wang, Yangyang Han, Vaishnavi Amarr Reddy, Mervin Chun-Yi Ang, Gabriel Sánchez-Velázquez, Jolly Madathiparambil Saju, Yunteng Cao, Duc Thinh Khong, Praveen Kumar Jayapal, Raju Cheerlavancha, Suh In Loh, Gajendra Pratap Singh, Daisuke Urano, Sarojam Rajani, Benedetto Marelli, Michael S. Strano"
+  journal: "Nature Communications"
   year: 2024
-  type: "Preprint"
-  link: "https://www.biorxiv.org/content/xx.xxxxv1"
+  details: "15: 9300"
+  doi: "10.1038/s41467-024-53532-7"
+  url: "https://doi.org/10.1038/s41467-024-53532-7"
+
+- id: 14
+  title: "Burst plasma preparation of metallic nanoparticles on carbon fabrics for antibacterial and electrocatalytic applications"
+  authors: "Guiyin Xu, Zheyi Meng, Yunteng Cao, Zixu Tao, Qing-Jie Li, Myles Stapelberg, Bing Han, Rui Gao, Qipeng Yu, Meng Gu, Benedetto Marelli, Hailiang Wang, Meifang Zhu, Ju Li"
+  journal: "NPG Asia Materials"
+  year: 2024
+  details: "16(1): 48"
+  doi: "10.1038/s41427-024-00566-4"
+  url: "https://doi.org/10.1038/s41427-024-00566-4"
+
+- id: 15
+  title: "Directed assembly of proteinaceous–polysaccharide nanofibrils to fabricate membranes for emerging contaminant remediation"
+  authors: "Yilin Zhang, Hui Sun, Yunteng Cao, Maxwell J. Kalinowski, Meng Li, Benedetto Marelli"
+  journal: "ACS Nano"
+  year: 2024
+  details: "18(36): 25205-25215"
+  doi: "10.1021/acsnano.4c07409"
+  url: "https://doi.org/10.1021/acsnano.4c07409"
+
+- id: 16
+  title: "Rapid regeneration of graphite anodes via self-induced microwave plasma"
+  authors: "Minghui Shan, Shuchang Xu, Yunteng Cao, Bing Han, Xiaoqing Zhu, Tao Zhang, Chenyang Dang, Jiacheng Zhu, Qi Zhou, Zhixin Xue, Yaping Xu, Qixuan Zhu, Md Shariful Islam, Ben Hang Yin, Xijiang Chang, Changyong Cao, Guiyin Xu, Meifang Zhu"
+  journal: "Advanced Functional Materials"
+  year: 2024
+  details: "2411834"
+  doi: "10.1002/adfm.202411834"
+  url: "https://doi.org/10.1002/adfm.202411834"
+
+- id: 17
+  title: "Polymeric nanocarriers autonomously cross the plant cell wall and enable protein delivery for stress sensing"
+  authors: "Yilin Zhang, Yunteng Cao, Wenzhi Jiang, Qingquan Ma, Jinwoo Shin, Hui Sun, Jianqiao Cui, Yongsheng Chen, Juan Pablo Giraldo, Michael S. Strano, Gregory V. Lowry, Jen Sheen, Benedetto Marelli"
+  journal: "Advanced Materials"
+  year: 2024
+  details: "e2409356"
+  doi: "10.1002/adma.202409356"
+  url: "https://doi.org/10.1002/adma.202409356"
+
+- id: 18
+  title: "Antibody-targeted phytohormone delivery using foliar sprayed silk fibroin pickering emulsions"
+  authors: "Yue Hu, Yunteng Cao, Franklin M. Nguyen, Bradley D. Frank, Maxwell John Kalinowski, Meng Li, Sarojam Rajani, Benedetto Marelli"
+  journal: "Advanced Functional Materials"
+  year: 2024
+  details: "2402618"
+  doi: "10.1002/adfm.202402618"
+  url: "https://doi.org/10.1002/adfm.202402618"
+
+- id: 19
+  title: "Precise and high throughput delivery of micronutrients in plants enabled by pollen-inspired spiny and biodegradable microcapsules"
+  authors: "Muchun Liu, Yunteng Cao, Zheng Li, Emily Wang, Rajeev J Ram, Benedetto Marelli"
+  journal: "Advanced Materials"
+  year: 2024
+  details: "2401192"
+  doi: "10.1002/adma.202401192"
+  url: "https://doi.org/10.1002/adma.202401192"
+
+- id: 20
+  title: "Recycling of chicken feathers"
+  authors: "Guiyin Xu, Minghui Shan, Huijun Chen, Yunteng Cao, Ping Nie, Tengfei Xiang, Chenyang Dang, Myles G Stapelberg, Dongyang Zhu, Meifang Zhu"
+  journal: "Carbon Neutralization"
+  year: 2024
+  details: ""
+  doi: "10.1002/cnl2.132"
+  url: "https://doi.org/10.1002/cnl2.132"
+
+- id: 21
+  title: "Artificial phytoremediation solar interface evaporator for efficient heavy metal salt separation and saline soil remediation"
+  authors: "Yaping Xu, Chenyang Dang, Xiangkun Elvis Cao, Yunteng Cao, Jiu Huang, Yuxiang Xu, Minghui Shan, Rui Liu, Peng Li, Guiyin Xu, Meifang Zhu"
+  journal: "Journal of Environmental Chemical Engineering"
+  year: 2024
+  details: "12(4): 113114"
+  doi: "10.1016/j.jece.2024.113114"
+  url: "https://doi.org/10.1016/j.jece.2024.113114"
+
+- id: 22
+  title: "System integration for solar-driven interfacial desalination"
+  authors: "Chenyang Dang, Huijie Nie, Xiangkun Elvis Cao, Yunteng Cao, Lujia Liu, Xiaoqing Zhu, Qixuan Zhu, Liping Zhu, Guiyin Xu, Meifang Zhu"
+  journal: "Device"
+  year: 2024
+  details: "2(5)"
+  doi: "10.1038/s44221-024-00200-1"
+  url: "https://doi.org/10.1038/s44221-024-00200-1"
+
+- id: 23
+  title: "Flexible Biosensors for Food Pathogen Detection"
+  authors: "Sonatan Kumar Biswas, Md Shariful Islam, Fei Jia, Yunteng Cao, Yanbin Li, Changyong (Chase) Cao"
+  journal: "Advanced Electronic Materials"
+  year: 2024
+  details: "2300898"
+  doi: "10.1002/aelm.202300898"
+  url: "https://doi.org/10.1002/aelm.202300898"
+
+- id: 24
+  title: "Structure integration and architecture of solar-driven interfacial desalination from miniaturization designs to industrial applications"
+  authors: "Chenyang Dang, Yunteng Cao, Huijie Nie, Wenyuan Lang, Jia Zhang, Guiyin Xu, Meifang Zhu"
+  journal: "Nature Water"
+  year: 2024
+  details: "2: 115–126"
+  doi: "10.1038/s44221-024-00200-1"
+  url: "https://doi.org/10.1038/s44221-024-00200-1"
+
+- id: 25
+  title: "Recycling of LiFePO4 cathode materials: From laboratory scale to industrial production"
+  authors: "Minghui Shan, Chenyang Dang, Kai Meng, Yunteng Cao, Xiaoqing Zhu, Jia Zhang, Guiyin Xu, Meifang Zhu"
+  journal: "Materials Today"
+  year: 2024
+  details: ""
+  doi: "10.1016/j.mattod.2023.12.012"
+  url: "https://doi.org/10.1016/j.mattod.2023.12.012"
+
+- id: 26
+  title: "Bio-inspired anisotropic hydrogels and their applications in soft actuators and robots"
+  authors: "Zhen Chen, Huigang Wang, Yunteng Cao, Yujie Chen, Ozan Akkus, Hezhou Liu, Changyong (Chase) Cao"
+  journal: "Matter"
+  year: 2023
+  details: ""
+  doi: "10.1016/j.matt.2023.08.011"
+  url: "https://doi.org/10.1016/j.matt.2023.08.011"
+
+- id: 27
+  title: "Design of biodegradable, climate-specific packaging materials that sense food spoilage and extend shelf life"
+  authors: "Yangyang Han#, Song Wang#, Yunteng Cao, Gajendra Pratap Singh, Suh In Loh, Raju Cheerlavancha, Mervin Chun-Yi Ang, Duc Thinh Khong, Patrina Wei Lin Chua, Peiying Ho, Michael Strano, Benedetto Marelli"
+  journal: "ACS Nano"
+  year: 2023
+  details: "17(9): 8333–8344"
+  doi: "10.1021/acsnano.2c12747"
+  url: "https://doi.org/10.1021/acsnano.2c12747"
+
+- id: 28
+  title: "Ultra salt-resistant solar desalination system via large-scale easy- assembly of microstructural units"
+  authors: "Chenyang Dang, Hua Wang, Yunteng Cao, Jing Shen, Jia Zhang, Letian Lv, Guiyin Xu, Meifang Zhu"
+  journal: "Energy & Environmental Science"
+  year: 2022
+  details: "15: 5405-5414"
+  doi: "10.1039/D2EE03341K"
+  url: "https://doi.org/10.1039/D2EE03341K"
+
+- id: 29
+  title: "Degradation of regenerated silk fibroin in soil and marine environments"
+  authors: "Augustine T. Zvinavashe, Zeina Barghouti, Yunteng Cao, Hui Sun, Doyoon Kim, Muchun Liu, Eugene Lim, Benedetto Marelli"
+  journal: "ACS Sustainable Chemistry & Engineering"
+  year: 2022
+  details: "10(34): 11088–11097"
+  doi: "10.1021/acssuschemeng.2c00949"
+  url: "https://doi.org/10.1021/acssuschemeng.2c00949"
+
+- id: 30
+  title: "Biomaterials technology for agrofood resilience"
+  authors: "Hui Sun, Yunteng Cao, Doyoon Kim, Benedetto Marelli"
+  journal: "Advanced Functional Materials"
+  year: 2022
+  details: "2201930"
+  doi: "10.1002/adfm.202201930"
+  url: "https://doi.org/10.1002/adfm.202201930"
+
+- id: 31
+  title: "Self-powered multifunctional human–machine interfaces for respiratory monitoring and smart system control"
+  authors: "Yaokun Pang, Shoue Chen, Yunteng Cao, Zhida Huang, Xianchen Xu, Yuhui Fang, Changyong Cao"
+  journal: "Advanced Materials Interfaces"
+  year: 2022
+  details: "2201202"
+  doi: "10.1002/admi.202201202"
+  url: "https://doi.org/10.1002/admi.202201202"
+
+- id: 32
+  title: "A microneedle technology for sampling and sensing bacteria in the food supply chain"
+  authors: "Doyoon Kim, Yunteng Cao, Dhanushkodi Mariappan, Michael S. Bono Jr., A. John Hart, Benedetto Marelli"
+  journal: "Advanced Functional Materials"
+  year: 2021
+  details: "31(1): 2005370"
+  doi: "10.1002/adfm.202005370"
+  url: "https://doi.org/10.1002/adfm.202005370"
+
+- id: 33
+  title: "Soft robotic manipulation system capable of stiffness variation and dexterous operation for safe human–machine interactions"
+  authors: "Shoue Chen, Yaokun Pang, Yunteng Cao, Xiaobo Tan, Changyong Cao"
+  journal: "Advanced Materials Technologies"
+  year: 2021
+  details: "6(5): 2100084"
+  doi: "10.1002/admt.202100084"
+  url: "https://doi.org/10.1002/admt.202100084"
+
+- id: 34
+  title: "Multifunctional metamaterials for energy harvesting and vibration control"
+  authors: "Xianchen Xu, Qian Wu, Yaokun Pang, Yunteng Cao, Yuhui Fang, Guoliang Huang, Changyong Cao"
+  journal: "Advanced Functional Materials"
+  year: 2021
+  details: "2107896"
+  doi: "10.1002/adfm.202107896"
+  url: "https://doi.org/10.1002/adfm.202107896"
+
+- id: 35
+  title: "Self-perpetuating carbon foam microwave plasma conversion of hydrocarbon wastes into useful fuels and chemicals"
+  authors: "Guiyin Xu, Haibin Jiang, Myles Stapelberg, Jiawei Zhou, Mengyang Liu, Qing-Jie Li, Yunteng Cao, Rui Gao, Minggang Cai, Jinliang Qiao, Mitchell S Galanek, Weiwei Fan, Weijiang Xue, Benedetto Marelli, Meifang Zhu, Ju Li"
+  journal: "Environmental Science & Technology"
+  year: 2021
+  details: "55(9): 6239-6247"
+  doi: "10.1021/acs.est.0c06977"
+  url: "https://doi.org/10.1021/acs.est.0c06977"
+
+- id: 36
+  title: "Hybrid energy-harvesting systems based on triboelectric nanogenerators"
+  authors: "Yaokun Pang, Yunteng Cao, Masoud Derakhshani, Yuhui Fang, Zhong Lin Wang, Changyong Cao"
+  journal: "Matter"
+  year: 2021
+  details: "4(1): 116-143"
+  doi: "10.1016/j.matt.2020.10.018"
+  url: "https://doi.org/10.1016/j.matt.2020.10.018"
+
+- id: 37
+  title: "A multilayered edible coating to extend produce shelf-life"
+  authors: "Elisabetta Ruggeri, Doyoon Kim, Yunteng Cao, Silvia Fare, Luigi De Nardo, Benedetto Marelli"
+  journal: "ACS Sustainable Chemistry & Engineering"
+  year: 2020
+  details: "8(38): 14312-14321"
+  doi: "10.1021/acssuschemeng.0c03365"
+  url: "https://doi.org/10.1021/acssuschemeng.0c03365"
+
+- id: 38
+  title: "Robust and high-performance electrodes via crumpled Au-CNT forests for stretchable supercapacitors"
+  authors: "Yihao Zhou, Changyong Cao, Yunteng Cao, Qiwei Han, Charles B. Parker, Jeffrey T. Glass"
+  journal: "Matter"
+  year: 2020
+  details: "2(5): 1307-1323"
+  doi: "10.1016/j.matt.2020.02.024"
+  url: "https://doi.org/10.1016/j.matt.2020.02.024"
+
+- id: 39
+  title: "Soft crawling robots: design, actuation, and locomotion"
+  authors: "Shoue Chen, Yunteng Cao, Morteza Sarparast, Hongyan Yuan, Lixin Dong, Xiaobo Tan, Changyong Cao"
+  journal: "Advanced Materials Technologies"
+  year: 2020
+  details: "5(2): 1900837"
+  doi: "10.1002/admt.201900837"
+  url: "https://doi.org/10.1002/admt.201900837"
+
+- id: 40
+  title: "Additive manufacturing of batteries"
+  authors: "Yaokun Pang, Yunteng Cao, Yihang Chu, Minghong Liu, Kent Snyder, Devin MacKenzie, Changyong Cao"
+  journal: "Advanced Functional Materials"
+  year: 2020
+  details: "30(1): 1906244"
+  doi: "10.1002/adfm.201906244"
+  url: "https://doi.org/10.1002/adfm.201906244"
+
+- id: 41
+  title: "Highly stretchable supercapacitors via crumpled vertically aligned carbon nanotube forests"
+  authors: "Changyong Cao, Yihao Zhou, Stephen Ubnoske, Jianfeng Zang, Yunteng Cao, Philémon Henry, Charles B. Parker, Jeffrey T. Glass"
+  journal: "Advanced Energy Materials"
+  year: 2019
+  details: "9(22): 1900618"
+  doi: "10.1002/aenm.201900618"
+  url: "https://doi.org/10.1002/aenm.201900618"
+
+- id: 42
+  title: "Phase transition and optimal actuation of active bilayer structures"
+  authors: "Yin Liu, Yunteng Cao, Xi-Qiao Feng, Changyong Cao"
+  journal: "Extreme Mechanics Letters"
+  year: 2019
+  details: "29: 100467"
+  doi: "10.1016/j.eml.2019.100467"
+  url: "https://doi.org/10.1016/j.eml.2019.100467"
+
+- id: 43
+  title: "Engineering the future of silk materials through advanced manufacturing"
+  authors: "Zhitao Zhou, Shaoqing Zhang, Yunteng Cao, Benedetto Marelli, Xiaoxia Xia, Tiger H Tao"
+  journal: "Advanced Materials"
+  year: 2018
+  details: "30(33): 1706983"
+  doi: "10.1002/adma.201706983"
+  url: "https://doi.org/10.1002/adma.201706983"
+
+- id: 44
+  title: "Architectures of soft robotic locomotion enabled by simple mechanical principles"
+  authors: "Liangliang Zhu, Yunteng Cao, Yilun Liu, Zhe Yang, Xi Chen"
+  journal: "Soft Matter"
+  year: 2017
+  details: "13(25): 4441-4456"
+  doi: "10.1039/C7SM00636E"
+  url: "https://doi.org/10.1039/C7SM00636E"
+
