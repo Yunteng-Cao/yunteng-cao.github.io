@@ -4,15 +4,21 @@ title: Contact
 ---
 
 <div class="card">
-  <p style="margin:0 0 6px 0;"><strong>Contact</strong></p>
-  <p style="margin:0;">Email: <strong>{{ site.email }}</strong></p>
+  <div style="font-weight:700; margin-bottom:8px;">Contact</div>
+  <div>Email: <strong>{{ site.email }}</strong></div>
 </div>
 
-## Location
-Molecular, Cellular, and Developmental Biology
-Yale University
-850 West Campus Drive, Room 319  
-West Haven, CT 06516, USA
+
+<div class="card">
+  <div style="font-weight:700; margin-bottom:8px;">Location</div>
+  <div>
+    <strong>Molecular, Cellular, and Developmental Biology</strong><br/>
+    Yale University<br/>
+    850 West Campus Drive, Room 319<br/>
+    West Haven, CT 06516, USA
+  </div>
+</div>
+
 
 <!--
 ## Joining the lab
