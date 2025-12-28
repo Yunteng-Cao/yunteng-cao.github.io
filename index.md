@@ -9,15 +9,15 @@ title: Home
 </div>
 
 ## What we do
-We engineer programmable biomaterials and biointerfaces by integrating **biomanufacturing**, **proteins/biomaterials engineering**, and **micro/nanoscale fabrication**. Our work aims to uncover **design rules** that connect molecular composition to multiscale function, enabling new capabilities in healthcare and sustainable systems.
+We engineer programmable biomaterials by integrating **biomanufacturing**, **proteins/biomaterials engineering**, and **micro/nanoscale fabrication**. Our work aims to uncover **design rules** that connect molecular composition to multiscale function, enabling new capabilities in healthcare and sustainable systems.
 
 <div class="card">
-  <strong>Theme 1 — Programmable biomaterials</strong><br/>
+  <strong>Theme 1 — Biomanufacturing of programmable biomaterials</strong><br/>
   <span class="muted"> Engineering chemically diverse proteins using genomically recoded organisms to systematically unravel sequence-to-function relationships in expanded chemistry space and enable programmable biomaterial properties.</span>
 </div>
 
 <div class="card">
-  <strong>Theme 2 — Biointerfaces & functional devices</strong><br/>
+  <strong>Theme 2 — Advanced Manufacturing of functional devices</strong><br/>
   <span class="muted"> Manufacturing functional biomaterials and devices through advanced micro/nanofabrication techniques for precise delivery and sensing, and to establish process-structure-function relationships.</span>
 </div>
 
