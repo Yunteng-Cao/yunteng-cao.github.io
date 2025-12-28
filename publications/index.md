@@ -3,40 +3,76 @@ layout: default
 title: Publications
 ---
 
-{% assign pubs = site.data.publications | sort: "year" | reverse %}
-{% assign n_total = pubs | size %}
+<p class="muted">
+Peer-reviewed publications (# indicates equal contribution)
+</p>
 
-{% for p in pubs %}
-{% assign num = n_total | minus: forloop.index0 %}
-
-{% assign authors_bold = p.authors
-  | replace: "Yunteng Cao#", "<strong>Yunteng Cao</strong>#"
-  | replace: "Yunteng Cao", "<strong>Yunteng Cao</strong>"
-%}
+<!-- =========================
+     2025
+========================= -->
 
 <div class="card">
-  <div><strong>[{{ num }}]</strong> <strong>{{ p.title }}</strong></div>
-
-  {% if p.authors %}
-  <div class="muted">{{ authors_bold }}</div>
-  {% endif %}
-
-  <div>
-    {% if p.journal %}{{ p.journal }}{% endif %}
-    {% if p.details %}{% if p.journal %} · {% endif %}{{ p.details }}{% endif %}
-    {% if p.year %}{% if p.journal or p.details %} · {% endif %}{{ p.year }}{% endif %}
-    {% if p.type %} · {{ p.type }}{% endif %}
-  </div>
-
-  {% if p.note %}
-  <div class="muted"><small>{{ p.note }}</small></div>
-  {% endif %}
-
-  <div style="margin-top:8px;">
-    {% if p.url %}<a href="{{ p.url }}">Link</a>{% endif %}
-    {% if p.doi %}{% if p.url %} · {% endif %}<a href="https://doi.org/{{ p.doi }}">DOI</a>{% endif %}
-    {% if p.pdf %}{% if p.url or p.doi %} · {% endif %}<a href="{{ p.pdf }}">PDF</a>{% endif %}
-    {% if p.code %}{% if p.url or p.doi or p.pdf %} · {% endif %}<a href="{{ p.code }}">Code</a>{% endif %}
+  <div style="display:flex; gap:16px; align-items:flex-start;">
+    <div style="min-width:0;">
+      <div><strong>[44]</strong> <strong>Nanofabrication of silk microneedles for high-throughput micronutrient delivery and continuous sap monitoring in plants</strong></div>
+      <div class="muted"><strong>Yunteng Cao</strong>#, Doyoon Kim#, Sally Shuxian Koh, Zheng Li, Federica Rigoldi, Julia Eva Fortmueller, Kasey Goh, Yilin Zhang, Eugene J. Lim, Hui Sun, Elise Uyehara, Raju Cheerlavancha, Yangyang Han, Rajeev J. Ram, Daisuke Urano, Benedetto Marelli</div>
+      <div>Nature Nanotechnology · 2025</div>
+      <div style="margin-top:8px;">
+        <a href="https://doi.org/10.1038/s41565-025-01923-2">DOI</a>
+      </div>
+      <div class="muted"><small>Cover story (MIT News)</small></div>
+    </div>
   </div>
 </div>
-{% endfor %}
+
+<div class="card">
+  <div><strong>[43]</strong> <strong>Hierarchically Structured Hollow Fiber Membranes for Efficient, Selective, and Scalable Mercury Ion Removal from Water</strong></div>
+  <div class="muted">Yaping Xu, Rui Liu, Yu Chu, Yuxiang Xu, Chenyang Dang, Tao Zhang, Xiaofeng Fang, Bing Han, Peng Li, <strong>Yunteng Cao</strong>, Guiyin Xu, Meifang Zhu</div>
+  <div>Advanced Materials · 2025 · 2507014</div>
+  <div style="margin-top:8px;">
+    <a href="https://doi.org/10.1002/adma.202507014">DOI</a>
+  </div>
+</div>
+
+<!-- =========================
+     2024
+========================= -->
+
+<!-- =========================
+     TEMPLATE BLOCKS (COPY/PASTE)
+========================= -->
+
+<!-- Template WITH cover image -->
+<!--
+<div class="card">
+  <div style="display:flex; gap:16px; align-items:flex-start;">
+    <img
+      src="{{ site.baseurl }}/assets/img/pubs/COVER_FILENAME.png"
+      alt="Cover image"
+      style="width:140px; height:180px; object-fit:cover; border-radius:12px; flex:0 0 auto;"
+    />
+    <div style="min-width:0;">
+      <div><strong>[NN]</strong> <strong>PAPER TITLE</strong></div>
+      <div class="muted">AUTHOR LIST (bold your name with <strong>Yunteng Cao</strong>)</div>
+      <div>JOURNAL · YEAR · DETAILS</div>
+      <div class="muted"><small>Optional note</small></div>
+      <div style="margin-top:8px;">
+        <a href="https://doi.org/XXXX">DOI</a> · <a href="LINK">Link</a> · <a href="{{ site.baseurl }}/assets/files/PDF.pdf">PDF</a>
+      </div>
+    </div>
+  </div>
+</div>
+-->
+
+<!-- Template WITHOUT cover image -->
+<!--
+<div class="card">
+  <div><strong>[NN]</strong> <strong>PAPER TITLE</strong></div>
+  <div class="muted">AUTHOR LIST (bold your name with <strong>Yunteng Cao</strong>)</div>
+  <div>JOURNAL · YEAR · DETAILS</div>
+  <div class="muted"><small>Optional note</small></div>
+  <div style="margin-top:8px;">
+    <a href="https://doi.org/XXXX">DOI</a> · <a href="LINK">Link</a> · <a href="{{ site.baseurl }}/assets/files/PDF.pdf">PDF</a>
+  </div>
+</div>
+-->
