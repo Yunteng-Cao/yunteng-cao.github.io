@@ -7,7 +7,7 @@ title: Publications
 {% assign n_total = pubs | size %}
 
 <p class="muted">
-A selected list of publications and preprints. (Sorted by year; newest has the highest number.)
+Peer-reviewed publications
 </p>
 
 {% for p in pubs %}
