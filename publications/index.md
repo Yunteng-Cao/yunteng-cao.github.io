@@ -7,10 +7,7 @@ title: Publications
 Peer-reviewed publications (# indicates equal contribution)
 </p>
 
-<!-- =========================
-     2025
-========================= -->
-
+<strong>2025<strong>
 
 <div class="card">
   <div style="display:flex; gap:16px; align-items:flex-start;">
