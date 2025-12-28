@@ -11,21 +11,6 @@ title: Home
 ## What we do
 We engineer programmable biomaterials for biointerfaces by integrating **biomanufacturing**, **proteins/biomaterials engineering**, and **micro/nanoscale fabrication**. Our work aims to uncover **design rules** that connect molecular composition to multiscale function, enabling new capabilities in healthcare and sustainable systems.
 
-<div class="card">
-  <strong>Theme 1 — Biomanufacturing of programmable biomaterials</strong><br/>
-  <span class="muted"> Engineering chemically diverse proteins using genomically recoded organisms to systematically unravel sequence-to-function relationships in expanded chemistry space and enable programmable biomaterial properties.</span>
-</div>
-
-<div class="card">
-  <strong>Theme 2 — Advanced Manufacturing of functional devices</strong><br/>
-  <span class="muted"> Manufacturing functional biomaterials and devices through advanced micro/nanofabrication techniques for precise delivery and sensing, and to establish process-structure-function relationships.</span>
-</div>
-
-<div class="card">
-  <strong>Theme 3 — Engineered living materials</strong><br/>
-  <span class="muted"> Elucidating and modulating biomaterial-living system interactions at their interfaces to control biological responses and generating sequence-structure-property-response rules for engineered living materials.</span>
-</div>
-
 ## Recent highlights
 -- Our research on **[Nanofabrication of silk microneedles for high throughput micronutrients delivery and continuous sap monitoring in plants](https://www.nature.com/articles/s41565-025-01923-2)** has just been published in *Nature Nanotechnology*!  
   It is also the cover story of [MIT News](https://news.mit.edu) ([link](https://news.mit.edu/2025/will-vegetables-future-be-fortified-using-tiny-needles-0429)).
