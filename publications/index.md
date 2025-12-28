@@ -6,10 +6,6 @@ title: Publications
 {% assign pubs = site.data.publications | sort: "year" | reverse %}
 {% assign n_total = pubs | size %}
 
-<p class="muted">
-Peer-reviewed publications
-</p>
-
 {% for p in pubs %}
 {% assign num = n_total | minus: forloop.index0 %}
 
