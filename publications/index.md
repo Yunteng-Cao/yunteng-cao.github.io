@@ -21,7 +21,7 @@ Peer-reviewed publications (# indicates equal contribution)
       </div>
       <div>
         Nature Nanotechnology 20, 1142–1151, 2025 ·
-        <a href="https://doi.org/10.1038/s41565-025-01923-2">DOI</a>
+        <a href="https://doi.org/10.1038/s41565-025-01923-2">DOI: 10.1038/s41565-025-01923-2</a>
       </div>
       <div class="muted">
         <small>
@@ -42,7 +42,7 @@ Peer-reviewed publications (# indicates equal contribution)
       </div>
       <div>
         Matter 8, 6, 102101, 2025 ·
-        <a href="https://www.cell.com/matter/fulltext/S2590-2385(25)00144-4">DOI</a>
+        <a href="https://www.cell.com/matter/fulltext/S2590-2385(25)00144-4">DOI: 10.1016/j.matt.2025.102101</a>
       </div>
     </div>
   </div>
@@ -63,6 +63,40 @@ Peer-reviewed publications (# indicates equal contribution)
     </div>
   </div>
 </div>
+
+
+<div class="card">
+  <div style="display:flex; gap:16px; align-items:flex-start;">
+    <div style="min-width:0;">
+      <div><strong>[41]</strong> <strong>Precise delivery of physiological doses of melatonin in planta to control postharvest physiology and extend shelf life outside the cold chain</strong></div>
+      <div class="muted">
+        Yangyang Han, Monika Jangir, Amanda Si Yi Ngoh, Chunhong Li, Sreelatha Sarangapani, <strong>Yunteng Cao</strong>, Yilin Zhang, Raju Cheerlavancha, Rajani Sarojam, Benedetto Marelli
+      </div>
+      <div>
+        Nano Letter 25, 22, 8859–8868, 2025 ·
+        <a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.5c00487">DOI: 10.1021/acs.nanolett.5c00487</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="card">
+  <div style="display:flex; gap:16px; align-items:flex-start;">
+    <div style="min-width:0;">
+      <div><strong>[40]</strong> <strong>Engineering a genomically recoded organism with one stop codon</strong></div>
+      <div class="muted">
+        Michael W. Grome, Michael T. A. Nguyen#, Daniel W Moonan#, Kyle Mohler#, Kebron Gurara1#, Shenqi Wang, Colin Hemez, Benjamin Stenton, <strong>Yunteng Cao</strong>, Felix Radford, Maya Kornaj, Jaymin Patel, Maisha Prome, Svetlana Rogulina, David Sozanski, Jesse Tordoff, Jesse Rinehart, Farren J. Isaacs
+      </div>
+      <div>
+        Nature, 639, 512–521, 2025 ·
+        <a href="https://www.nature.com/articles/s41586-024-08501-x">DOI: 10.1038/s41586-024-08501-x</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 
 
 
