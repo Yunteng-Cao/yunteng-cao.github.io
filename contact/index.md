@@ -9,25 +9,15 @@ title: Contact
 </div>
 
 ## Location
-Department, University  
-Street address line 1  
-City, State ZIP, USA
+Molecular, Cellular, and Developmental Biology
+Yale University
+850 West Campus Drive, Room 319  
+West Haven, CT 06516, USA
 
-## Collaboration
-We are interested in collaborations in:
-- Topic area A
-- Topic area B
-- Topic area C
-
+<!--
 ## Joining the lab
 If you’re interested in joining, please email:
 - a brief introduction (2–3 sentences)
 - your CV
 - (optional) a short description of a project idea or what you’d like to learn
-
-<p class="muted"><small>Tip: include “Prospective student/postdoc — YOUR TOPIC” in the subject line to help us triage.</small></p>
-
-## Links
-- GitHub: https://github.com/YOURUSERNAME
-- Google Scholar: add link
-- LinkedIn: add link
+-->
