@@ -27,10 +27,10 @@ We engineer programmable biomaterials and biointerfaces by integrating **biomanu
 </div>
 
 ## Quick links
-- **Bio:** See the team and PI background → [Bio]({{ site.baseurl }}/bio/)
-- **Research:** Our themes and approaches → [Research]({{ site.baseurl }}/research/)
-- **Publications:** Papers and preprints → [Publications]({{ site.baseurl }}/publications/)
-- **Contact:** How to reach us → [Contact]({{ site.baseurl }}/contact/)
+- **Bio:** See the team and PI background → [Bio](/bio/)
+- **Research:** Our themes and approaches → [Research](/research/)
+- **Publications:** Papers and preprints → [Publications](/publications/)
+- **Contact:** How to reach us → [Contact](/contact/)
 
 ## Recent highlights
 - Add 2–4 bullet updates here (new paper, talk, grant, open positions).
