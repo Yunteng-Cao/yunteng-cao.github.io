@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-Our lab engineers programmable biomaterials and biointerfaces by connecting **molecular design** to **measurable function** across length scales. Below are representative themes—edit them to match your lab.
+We engineer programmable biomaterials and biointerfaces by integrating **biomanufacturing**, **proteins/biomaterials engineering**, and **micro/nanoscale fabrication**. Our work aims to uncover **design rules** that connect molecular composition to multiscale function, enabling new capabilities in healthcare and sustainable systems.
 
 <div class="card">
   <strong>Theme 1 — Programmable biomaterials (sequence → structure → function)</strong>
@@ -32,7 +32,7 @@ Our lab engineers programmable biomaterials and biointerfaces by connecting **mo
 </div>
 
 <div class="card">
-  <strong>Theme 3 — Data-driven design rules</strong>
+  <strong>Theme 3 — Engineered living materials</strong>
   <p class="muted" style="margin:8px 0 0 0;">
     Explain what data you generate, how you ensure quality/standardization, and how you use models to guide design.
   </p>
