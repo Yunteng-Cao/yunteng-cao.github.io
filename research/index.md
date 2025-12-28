@@ -9,7 +9,7 @@ We engineer programmable biomaterials for biointerfaces by integrating **biomanu
   <img
     src="{{ site.baseurl }}/assets/img/Research_overview.png"
     alt="Research Overview"
-    style="width:100%; display:block; border-radius:12px;"
+    style="width:100%; max-width:700px; display:block; margin:0 auto; border-radius:12px;"
   />
   <p class="muted" style="margin:10px 0 0 0;"><small>Overview of our research themes and workflow.</small></p>
 </div>
@@ -30,8 +30,7 @@ We engineer programmable biomaterials for biointerfaces by integrating **biomanu
     style="width:100%; max-width:700px; display:block; margin:0 auto; border-radius:12px;"
   />
   <p class="muted" style="margin:10px 0 0 0;"><small>Theme 1 pipeline. Phase 0: establish the GRO/OTS platform for multi-site, high-fidelity
-nsAA incorporation. Design: in-silico sequence design with molecular dynamics to position nsAAs (X). Biomanufacturing: express target proteins in GROs. Characterization: structure, morphology, and functional assays. Data close a model-build-test-learn loop to derive sequence-structure-property-function maps and programmable biomaterial properties.</small></p>
-  
+nsAA incorporation. Design: in-silico sequence design with molecular dynamics to position nsAAs (X). Biomanufacturing: express target proteins in GROs. Characterization: structure, morphology, and functional assays. Data close a model-build-test-learn loop to derive sequence-structure-property-function maps and programmable biomaterial properties.</small></p>  
 </div>
 
 <div class="card">
