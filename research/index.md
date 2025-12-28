@@ -15,17 +15,21 @@ We engineer programmable biomaterials for biointerfaces by integrating **biomanu
 </div>
 
 <div class="card">
-  <strong>Theme 1 — Programmable biomaterials (sequence → structure → function)</strong>
+  <strong>Theme 1 — Programmable biomaterials (sequence - structure - property - function)</strong>
   <p class="muted" style="margin:8px 0 0 0;">
-    Briefly describe your core design strategy. What knobs do you tune (sequence, chemistry, architecture)?
-    What properties do you program (mechanics, assembly, stability, bioactivity)?
+    Proteins (e.g., silk fibroin, spidroin) hold great promise as versatile biomaterials due to their unique chemistry and structural diversity. Yet our ability to rationally design and produce high-performance, programmable proteins with tunable and expanded chemistries remains limited. Top-down material processing approaches inevitably introduce heterogeneity, while bottom-up strategies such as chemical synthesis and conventional biomanufacturing have struggled to produce proteins with diverse chemical functionalities beyond the 20 standard amino acids at scale. These constraints also impede systematic mapping of sequence-structure-property-function relationships and translation to real-world biomaterial applications. To address these gaps, I will use **genomically recoded organisms** (GROs) as production chassis. By replacing or removing reassigned codons genome-wide, GROs eliminate endogenous competition present in conventional hosts, enabling site-specific incorporation of nsAAs. Building on their use in biological studies, I will repurpose GROs for scalable biomaterial production, pursuing three objectives:
   </p>
   <ul>
-    <li>Example direction A (1 sentence)</li>
-    <li>Example direction B (1 sentence)</li>
-    <li>Example direction C (1 sentence)</li>
+    <li>1. develop genomic, biomolecular, and proteomic tools to enable scalable biomanufacturing of chemically diverse, homogeneous proteins in GROs</li>
+    <li>2. systematically investigate sequence-structure-property-function relationships in expanded chemistry space </li>
+    <li>3. design and produce proteins with programmable properties tailored for advanced biomaterial applications in precision agriculture and healthcare</li>
   </ul>
 </div>
+
+Related publications
+Engineering a genomically recoded organism with one stop codon, Michael W. Grome, Michael T. A. Nguyen#, Daniel W Moonan#, Kyle Mohler#, Kebron Gurara1#, Shenqi Wang, Colin Hemez, Benjamin Stenton, Yunteng Cao, Felix Radford, Maya Kornaj, Jaymin Patel, Maisha Prome, Svetlana Rogulina, David Sozanski, Jesse Tordoff, Jesse Rinehart, Farren J. Isaacs, Nature · 639: 512–521 · 2025 [DOI](https://www.nature.com/articles/s41586-024-08501-x)
+
+
 
 <div class="card">
   <strong>Theme 2 — Biointerfaces & functional devices</strong>
@@ -52,6 +56,3 @@ We engineer programmable biomaterials for biointerfaces by integrating **biomanu
   </ul>
 </div>
 
-## Facilities & collaboration
-Add a short paragraph about core facilities you use (imaging, microfabrication, proteomics, computing) and
-the kinds of collaborators you’re excited to work with.
