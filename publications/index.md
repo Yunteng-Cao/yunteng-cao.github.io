@@ -24,22 +24,29 @@ Peer-reviewed publications (# indicates equal contribution)
       </div>
       <div class="muted">
         <small>
-          (<a href="https://news.mit.edu/2025/will-vegetables-future-be-fortified-using-tiny-needles-0429">Cover story of MIT News</a>)
+          <a href="https://news.mit.edu/2025/will-vegetables-future-be-fortified-using-tiny-needles-0429">Cover story of MIT News</a>
         </small>
       </div>
     </div>
   </div>
 </div>
 
-
 <div class="card">
-  <div><strong>[43]</strong> <strong>Hierarchically Structured Hollow Fiber Membranes for Efficient, Selective, and Scalable Mercury Ion Removal from Water</strong></div>
-  <div class="muted">Yaping Xu, Rui Liu, Yu Chu, Yuxiang Xu, Chenyang Dang, Tao Zhang, Xiaofeng Fang, Bing Han, Peng Li, <strong>Yunteng Cao</strong>, Guiyin Xu, Meifang Zhu</div>
-  <div>Advanced Materials · 2025 · 2507014</div>
-  <div style="margin-top:8px;">
-    <a href="https://doi.org/10.1002/adma.202507014">DOI</a>
+  <div style="display:flex; gap:16px; align-items:flex-start;">
+    <div style="min-width:0;">
+      <div><strong>[43]</strong> <strong>From lab to industry: High-safety separators for lithium-ion/-metal batteries</strong></div>
+      <div class="muted">
+        Jia Zhang, Zhongxiu Liu, Chenyang Dang, Xiaoqing Zhu, Tao Zhang, Jing Shen, Hao Yang, Yujie Zhang, <strong>Yunteng Cao</strong>, Chris Y Yuan, C Chase Cao, Guiyin Xu, Meifang Zhu
+      </div>
+      <div>
+        Matter 8, 6, 102101, 2025 ·
+        <a href="https://www.cell.com/matter/fulltext/S2590-2385(25)00144-4">DOI</a>
+      </div>
+    </div>
   </div>
 </div>
+
+
 
 <!-- =========================
      2024
