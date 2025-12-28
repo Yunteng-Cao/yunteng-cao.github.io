@@ -5,6 +5,14 @@ title: Research
 
 We engineer programmable biomaterials for biointerfaces by integrating **biomanufacturing**, **proteins/biomaterials engineering**, and **micro/nanoscale fabrication**. Our work aims to uncover **design rules** that connect molecular composition to multiscale function, enabling new capabilities in healthcare and sustainable systems.
 
+<div class="card" style="margin-top:18px;">
+  <img
+    src="{{ site.baseurl }}/assets/img/Research_overview.png"
+    alt="Research Overview"
+    style="width:100%; display:block; border-radius:12px;"
+  />
+  <p class="muted" style="margin:10px 0 0 0;"><small>Overview of our research themes and workflow.</small></p>
+</div>
 
 <div class="card">
   <strong>Theme 1 — Programmable biomaterials (sequence → structure → function)</strong>
