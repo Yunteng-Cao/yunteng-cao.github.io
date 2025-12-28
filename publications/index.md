@@ -15,15 +15,22 @@ Peer-reviewed publications (# indicates equal contribution)
   <div style="display:flex; gap:16px; align-items:flex-start;">
     <div style="min-width:0;">
       <div><strong>[44]</strong> <strong>Nanofabrication of silk microneedles for high-throughput micronutrient delivery and continuous sap monitoring in plants</strong></div>
-      <div class="muted"><strong>Yunteng Cao</strong>#, Doyoon Kim#, Sally Shuxian Koh, Zheng Li, Federica Rigoldi, Julia Eva Fortmueller, Kasey Goh, Yilin Zhang, Eugene J. Lim, Hui Sun, Elise Uyehara, Raju Cheerlavancha, Yangyang Han, Rajeev J. Ram, Daisuke Urano, Benedetto Marelli</div>
-      <div>Nature Nanotechnology 20, 1142–1151, 2025</div>
-      <div style="margin-top:8px;">
+      <div class="muted">
+        <strong>Yunteng Cao</strong>#, Doyoon Kim#, Sally Shuxian Koh, Zheng Li, Federica Rigoldi, Julia Eva Fortmueller, Kasey Goh, Yilin Zhang, Eugene J. Lim, Hui Sun, Elise Uyehara, Raju Cheerlavancha, Yangyang Han, Rajeev J. Ram, Daisuke Urano, Benedetto Marelli
+      </div>
+      <div>
+        Nature Nanotechnology 20, 1142–1151, 2025 ·
         <a href="https://doi.org/10.1038/s41565-025-01923-2">DOI</a>
       </div>
-      <div class="muted"><small>([Cover story of MIT News](https://news.mit.edu/2025/will-vegetables-future-be-fortified-using-tiny-needles-0429))</small></div>
+      <div class="muted">
+        <small>
+          (<a href="https://news.mit.edu/2025/will-vegetables-future-be-fortified-using-tiny-needles-0429">Cover story of MIT News</a>)
+        </small>
+      </div>
     </div>
   </div>
 </div>
+
 
 <div class="card">
   <div><strong>[43]</strong> <strong>Hierarchically Structured Hollow Fiber Membranes for Efficient, Selective, and Scalable Mercury Ion Removal from Water</strong></div>
