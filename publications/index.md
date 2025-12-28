@@ -11,6 +11,7 @@ Peer-reviewed publications (# indicates equal contribution)
      2025
 ========================= -->
 
+
 <div class="card">
   <div style="display:flex; gap:16px; align-items:flex-start;">
     <div style="min-width:0;">
@@ -31,6 +32,7 @@ Peer-reviewed publications (# indicates equal contribution)
   </div>
 </div>
 
+
 <div class="card">
   <div style="display:flex; gap:16px; align-items:flex-start;">
     <div style="min-width:0;">
@@ -45,6 +47,23 @@ Peer-reviewed publications (# indicates equal contribution)
     </div>
   </div>
 </div>
+
+
+<div class="card">
+  <div style="display:flex; gap:16px; align-items:flex-start;">
+    <div style="min-width:0;">
+      <div><strong>[42]</strong> <strong>Electron displacement polarization of high-dielectric constant fiber separators enhances interface stability</strong></div>
+      <div class="muted">
+        Tao Zhang, Xiaoqing Zhu, Jiyang Xiong, Zhixin Xue, <strong>Yunteng Cao</strong>, Keith C Gordon, Guiyin Xu, Meifang Zhu
+      </div>
+      <div>
+        Nature Communications 16, 4867, 2025 ·
+        <a href="https://doi.org/10.1038/s41467-025-60256-9">DOI: 10.1038/s41467-025-60256-9</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
 
