@@ -24,8 +24,6 @@ title: Bio
   </div>
 </div>
 
-
-## 
 Dr. Yunteng Cao is a Postdoctoral Associate in the Isaacs Lab at Yale University’s Department of Molecular, Cellular, and Developmental Biology. He earned his Ph.D. in Structures and Materials from the Massachusetts Institute of Technology in 2022 under Dr. Benedetto Marelli, and holds an M.Eng. in Mechanics and a B.E. in Engineering Mechanics.
 His research integrates bioengineering and advanced manufacturing to expand Nature’s capacity to synthesize and assemble biomaterials. His work spans naturally derived biopolymers, programmable proteins with expanded chemistry, and engineered living materials. He aims to create programmable biomaterials with tunable properties that address challenges in healthcare and precision agriculture while advancing environmental and societal sustainability.
 
