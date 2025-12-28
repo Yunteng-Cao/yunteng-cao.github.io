@@ -24,6 +24,14 @@ We engineer programmable biomaterials for biointerfaces by integrating **biomanu
     <li>Investigate sequence-structure-property-function relationships in expanded chemistry space experimentally and computationally</li>
     <li>Design and produce proteins with programmable properties tailored for advanced biomaterial applications in precision agriculture and healthcare</li>
   </ul>
+  <img
+    src="{{ site.baseurl }}/assets/img/Research_T1.png"
+    alt="Research Theme 1"
+    style="width:100%; display:block; border-radius:12px;"
+  />
+  <p class="muted" style="margin:10px 0 0 0;"><small>Theme 1 pipeline. Phase 0: establish the GRO/OTS platform for multi-site, high-fidelity
+nsAA incorporation. Design: in-silico sequence design with molecular dynamics to position nsAAs (X). Biomanufacturing: express target proteins in GROs. Characterization: structure, morphology, and functional assays. Data close a model-build-test-learn loop to derive sequence-structure-property-function maps and programmable biomaterial properties.</small></p>
+  
 </div>
 
 <div class="card">
