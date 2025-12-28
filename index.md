@@ -27,4 +27,7 @@ We engineer programmable biomaterials and biointerfaces by integrating **biomanu
 </div>
 
 ## Recent highlights
+-- Our research on **[Nanofabrication of silk microneedles for high throughput micronutrients delivery and continuous sap monitoring in plants](https://lnkd.in/eQBSxsdg)** has just been published in *Nature Nanotechnology*!  
+  It is also the cover story of [MIT News](https://news.mit.edu) ([link](https://lnkd.in/emx36fwU)).
+
 - Our research on "Nanofabrication of silk microneedles for high throughput micronutrients delivery and continuous sap monitoring in plants" has just been published in Nature Nanotechnology! https://lnkd.in/eQBSxsdg It is also today’s Cover Story of MIT News https://news.mit.edu (https://lnkd.in/emx36fwU)
