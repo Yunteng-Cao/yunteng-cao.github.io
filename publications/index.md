@@ -34,7 +34,3 @@ A selected list of publications and preprints. (Sorted by year.)
   </div>
 </div>
 {% endfor %}
-
-## Profiles
-- Google Scholar: add link
-- ORCID: add link
