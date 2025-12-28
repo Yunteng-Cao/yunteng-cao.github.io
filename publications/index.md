@@ -4,19 +4,22 @@ title: Publications
 ---
 
 {% assign pubs = site.data.publications | sort: "year" | reverse %}
+{% assign n_total = pubs | size %}
 
 <p class="muted">
-A selected list of publications and preprints. (Sorted by year.)
+A selected list of publications and preprints. (Sorted by year; newest has the highest number.)
 </p>
 
 {% for p in pubs %}
+{% assign num = n_total | minus: forloop.index0 %}
+
 {% assign authors_bold = p.authors
-  | replace: "Yunteng Cao", "<strong>Yunteng Cao</strong>"
   | replace: "Yunteng Cao#", "<strong>Yunteng Cao</strong>#"
+  | replace: "Yunteng Cao", "<strong>Yunteng Cao</strong>"
 %}
 
 <div class="card">
-  <div><strong>{{ p.title }}</strong></div>
+  <div><strong>[{{ num }}]</strong> <strong>{{ p.title }}</strong></div>
 
   {% if p.authors %}
   <div class="muted">{{ authors_bold }}</div>
