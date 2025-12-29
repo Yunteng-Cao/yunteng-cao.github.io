@@ -102,7 +102,7 @@ Peer-reviewed publications (# indicates equal contribution)
         Yaping Xu, Rui Liu, Yu Chu, Yuxiang Xu, Chenyang Dang, Tao Zhang, Xiaofeng Fang, Bing Han, Peng Li, <strong>Yunteng Cao</strong>, Guiyin Xu, Meifang Zhu
       </div>
       <div>
-        Advanced Materials, 2507014, 2025 ·
+        Advanced Materials 37, 34, 2507014, 2025 ·
         <a href="https://doi.org/10.1002/adma.202507014">DOI: 10.1002/adma.202507014</a>
       </div>
     </div>
@@ -184,7 +184,7 @@ Peer-reviewed publications (# indicates equal contribution)
         Minghui Shan, Shuchang Xu, <strong>Yunteng Cao</strong>, Bing Han, Xiaoqing Zhu, Tao Zhang, Chenyang Dang, Jiacheng Zhu, Qi Zhou, Zhixin Xue, Yaping Xu, Qixuan Zhu, Md Shariful Islam, Ben Hang Yin, Xijiang Chang, Changyong Cao, Guiyin Xu, Meifang Zhu
       </div>
       <div>
-        Advanced Functional Materials, 2411834, 2024 ·
+        Advanced Functional Materials 34, 48, 2411834, 2024 ·
         <a href="https://doi.org/10.1002/adfm.202411834">DOI: 10.1002/adfm.202411834</a>
       </div>
     </div>
@@ -200,7 +200,7 @@ Peer-reviewed publications (# indicates equal contribution)
         Yilin Zhang, <strong>Yunteng Cao</strong>, Wenzhi Jiang, Qingquan Ma, Jinwoo Shin, Hui Sun, Jianqiao Cui, Yongsheng Chen, Juan Pablo Giraldo, Michael S. Strano, Gregory V. Lowry, Jen Sheen, Benedetto Marelli
       </div>
       <div>
-        Advanced Materials, e2409356, 2024 ·
+        Advanced Materials 36, 41, 2409356, 2024 ·
         <a href="https://doi.org/10.1002/adma.202409356">DOI: 10.1002/adma.202409356</a>
       </div>
     </div>
@@ -216,7 +216,7 @@ Peer-reviewed publications (# indicates equal contribution)
         Yue Hu, <strong>Yunteng Cao</strong>, Franklin M. Nguyen, Bradley D. Frank, Maxwell John Kalinowski, Meng Li, Sarojam Rajani, Benedetto Marelli
       </div>
       <div>
-        Advanced Functional Materials, 2402618, 2024 ·
+        Advanced Functional Materials 34, 38, 2402618, 2024 ·
         <a href="https://doi.org/10.1002/adfm.202402618">DOI: 10.1002/adfm.202402618</a>
       </div>
     </div>
@@ -232,7 +232,7 @@ Peer-reviewed publications (# indicates equal contribution)
         Muchun Liu, <strong>Yunteng Cao</strong>, Zheng Li, Emily Wang, Rajeev J Ram, Benedetto Marelli
       </div>
       <div>
-        Advanced Materials, 2401192, 2024 ·
+        Advanced Materials 36, 30, 2401192, 2024 ·
         <a href="https://doi.org/10.1002/adma.202401192">DOI: 10.1002/adma.202401192</a>
       </div>
     </div>
@@ -297,7 +297,7 @@ separation and saline soil remediation</strong></div>
         Sonatan Kumar Biswas, Md Shariful Islam, Fei Jia, <strong>Yunteng Cao</strong>, Yanbin Li, Changyong (Chase) Cao
       </div>
       <div>
-        Advanced Electronic Materials, 2300898, 2024 ·
+        Advanced Electronic Materials 10, 8, 2300898, 2024 ·
         <a href="https://doi.org/10.1002/aelm.202300898">DOI: 10.1002/aelm.202300898</a>
       </div>
     </div>
@@ -397,7 +397,7 @@ separation and saline soil remediation</strong></div>
         Yunteng Cao#, Sally Shuxian Koh#, Yangyang Han, Javier Jingheng Tan, Doyoon Kim, Nam-Hai Chua, Daisuke Urano, Benedetto Marelli
       </div>
       <div>
-        Advanced Materials, 2205794, 2022 ·
+        Advanced Materials 35, 2, 2205794, 2022 ·
         <a href="https://doi.org/10.1002/adma.202205794">DOI: 10.1002/adma.202205794</a>
       </div>
     </div>
@@ -429,7 +429,7 @@ separation and saline soil remediation</strong></div>
         Hui Sun, Yunteng Cao, Doyoon Kim, Benedetto Marelli
       </div>
       <div>
-        Advanced Functional Materials, 2201930, 2022 ·
+        Advanced Functional Materials 32, 30, 2201930, 2022 ·
         <a href="https://doi.org/10.1002/adfm.202201930">DOI: 10.1002/adfm.202201930</a>
       </div>
     </div>
@@ -445,7 +445,7 @@ separation and saline soil remediation</strong></div>
         Yaokun Pang, Shoue Chen, Yunteng Cao, Zhida Huang, Xianchen Xu, Yuhui Fang, Changyong Cao
       </div>
       <div>
-        Advanced Materials Interfaces, 2201202, 2022 ·
+        Advanced Materials Interfaces 9, 22, 2201202, 2022 ·
         <a href="https://doi.org/10.1002/admi.202201202">DOI: 10.1002/admi.202201202</a>
       </div>
     </div>
@@ -461,7 +461,7 @@ separation and saline soil remediation</strong></div>
         Yunteng Cao, Masoud Derakhshani, Yuhui Fang, Guoliang Huang, Changyong Cao
       </div>
       <div>
-        Advanced Functional Materials, 2106231, 2021 ·
+        Advanced Functional Materials 31, 45, 2106231, 2021 ·
         <a href="https://doi.org/10.1002/adfm.202106231">DOI: 10.1002/adfm.202106231</a>
       </div>
     </div>
