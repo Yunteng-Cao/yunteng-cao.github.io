@@ -89,6 +89,11 @@ Peer-reviewed publications (# indicates equal contribution)
         Nature, 639, 512–521, 2025 ·
         <a href="https://www.nature.com/articles/s41586-024-08501-x">DOI: 10.1038/s41586-024-08501-x</a>
       </div>
+      <div class="muted">
+        <small>
+          <a href="https://news.yale.edu/2025/02/06/yale-scientists-recode-genome-programmable-synthetic-proteins">Yale News</a>
+        </small>
+      </div>
     </div>
   </div>
 </div>
